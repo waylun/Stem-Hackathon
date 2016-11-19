@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/abeve/Hackathon/issues"
   },
-  "homepage": "https://github.com/abeve/Hackathon#readme"
+  "homepage": "https://github.com/abeve/Hackathon#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
 }
